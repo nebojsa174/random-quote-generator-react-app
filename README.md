@@ -1,6 +1,6 @@
 ## Random Quote Generator built with react
 
-# Available on: https://randomquotegeneratorappreact.netlify.app/
+ Available on: https://randomquotegeneratorappreact.netlify.app/
 
 # Getting Started with Create React App
 
